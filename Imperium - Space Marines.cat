@@ -22922,8 +22922,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
           </constraints>
           <selectionEntries>
             <selectionEntry id="77a5-5101-8df1-bb46" name="The Emperor&apos;s Judgement" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="3796-4951-8b5e-2d18" name="The Emperor&apos;s Judgement" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -22931,7 +22929,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -22939,8 +22936,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               </costs>
             </selectionEntry>
             <selectionEntry id="ea5c-dd76-bb05-17c2" name="Sacrosanct Rosarius" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="6b45-c755-4396-61f5" name="Sacrosanct Rosarius" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -22948,7 +22943,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -22971,8 +22965,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
           </constraints>
           <selectionEntries>
             <selectionEntry id="55d9-70dc-0216-2651" name="Mortis Machina" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="97dc-7ec5-92e4-6824" name="Mortis Machina" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
                   <characteristics>
@@ -22985,7 +22977,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -23015,8 +23006,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
           </constraints>
           <selectionEntries>
             <selectionEntry id="c17c-1998-eb3d-ae86" name="Healer&apos;s Aegis" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="5e44-0869-0144-f4e7" name="Healer&apos;s Aegis" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -23024,7 +23013,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -23032,8 +23020,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               </costs>
             </selectionEntry>
             <selectionEntry id="97a2-0eea-5db1-2d4a" name="Acquittal" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="0693-1ba7-0edb-be33" name="Acquittal" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
                   <characteristics>
@@ -23046,7 +23032,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -23069,8 +23054,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
           </constraints>
           <selectionEntries>
             <selectionEntry id="5167-a418-bcea-8cff" name="The Angel Artifice" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="7c4c-e10d-adf3-bd69" name="The Angel Artifice" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -23078,7 +23061,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -23086,8 +23068,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               </costs>
             </selectionEntry>
             <selectionEntry id="607b-eabc-97d7-9eb8" name="Blade of Triumph" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="c843-7497-d9fa-1a8d" name="Blade of Triumph" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
                   <characteristics>
@@ -23100,7 +23080,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -23128,8 +23107,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
           </constraints>
           <selectionEntries>
             <selectionEntry id="3f0f-f57f-1bc5-4f09" name="Pennant of the Fallen" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="2571-8a47-58c5-9d8d" name="Pennant of the Fallen" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -23137,7 +23114,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -23145,8 +23121,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               </costs>
             </selectionEntry>
             <selectionEntry id="4938-2ba9-08f3-c9ba" name="Standard of Righteous Hatred" hidden="false" collective="false" import="true" type="upgrade">
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="3b23-2447-66cb-9466" name="Standard of Righteous Hatred" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -23154,7 +23128,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24462,8 +24435,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="65cc-3dc0-ef55-e475" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="bbbb-d88c-2ded-9c16" name="Wise Orator" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24471,7 +24442,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24482,8 +24452,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="992c-b13d-d3f3-e39c" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="4d79-efee-f98d-623d" name="Bellowing Firebrand" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24491,7 +24459,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24513,8 +24480,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d182-075d-2bc7-902c" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="f008-157d-f36f-ccf0" name="Selfless Healer" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24522,7 +24487,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24533,8 +24497,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e48d-1f9b-c212-c929" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="3445-f01f-fd48-ef80" name="Father of the Future" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24542,7 +24504,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24601,8 +24562,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f0a3-9137-704e-448b" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="66ec-32f8-a34a-668a" name="Master of the Machine" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24610,7 +24569,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24621,8 +24579,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7ee0-7c21-fc82-1e73" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="1682-871a-a911-d86b" name="Warden of the Ancients" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24630,7 +24586,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24652,8 +24607,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bd32-6780-8b92-0be2" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="1270-366e-9567-7e76" name="Steadfast Example" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24661,7 +24614,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24672,8 +24624,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7fcc-874a-2c06-16dd" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="8eae-f088-ee17-44d2" name="Singular Presence" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24681,7 +24631,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24703,8 +24652,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a841-3832-d5de-5827" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="0bdd-1520-44fe-b5d6" name="Martial Exemplar" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24712,7 +24659,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -24723,8 +24669,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bb96-acb9-df31-9541" type="max"/>
               </constraints>
-<<<<<<< HEAD
-=======
               <profiles>
                 <profile id="0fde-f916-4939-b712" name="Master Duelist" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
                   <characteristics>
@@ -24732,7 +24676,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
                   </characteristics>
                 </profile>
               </profiles>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -27012,7 +26955,7 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
           <profiles>
             <profile id="a7cc-c7d4-7a8d-1d2c" name="5) Aspect of Stone" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Aspect of Stonehas a warp charge value of 5. If manifested, then until the start of your next Psychic phase, add 2 to this psyker’s Strength and Toughness characteristics. 
+                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Aspect of Stonehas a warp charge value of 5. If manifested, then until the start of your next Psychic phase, add 2 to this psyker’s Strength and Toughness characteristics.
 </characteristic>
               </characteristics>
             </profile>
@@ -27862,8 +27805,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
         <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">This Warlord can generate psychic powers from any discipline that they can know powers from (rather than generating psychic powers from only one discipline).</characteristic>
       </characteristics>
     </profile>
-<<<<<<< HEAD
-=======
     <profile id="7cbf-7a62-18e3-6b18" name="Superlative Duellist" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
       <characteristics>
         <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">When resolving an attack made with a melee weapon by this model against a CHARACTER unit, you can re-roll the hit roll and you can reroll the wound roll. </characteristic>
@@ -27879,7 +27820,6 @@ Crewed Artillery:After this unit is set up on the battlefield for the first time
         <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">In your shooting phase, one model from your army with an Orbital Comms Array that has not been used this battle can use it to call an orbital barrage. If it does select a point on the battlefield and roll a D6 for each unit within D6&quot; of that point, subtracting 1 from the result if the unit being rolled for is a CHARACTER. On a 4+ that unit suffers D3 mortal wounds. </characteristic>
       </characteristics>
     </profile>
->>>>>>> c9d2dbf0da359e303e5121c29b1ee687103469db
   </sharedProfiles>
   <catalogueLinks>
     <catalogueLink id="48c4-aeea-fb8a-5c12" name="Imperium - FW Adeptus Astartes" targetId="dab7-e076-dd5e-d8aa" type="catalogue" importRootEntries="true"/>
